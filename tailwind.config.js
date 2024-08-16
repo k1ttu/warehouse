@@ -17,6 +17,7 @@ export default {
       "bg-sec":"rgb(246 , 246 , 251)",
       "white" :" rgb(255,255,255)",
       ...color
+      
     }
   },
   plugins: [],
